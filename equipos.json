@@ -1,0 +1,16 @@
+{
+  "equipos" : [
+    {
+      "nombre" : "Real Madrid",
+      "anioFundacion" : "1902"
+    },
+    {
+      "nombre" : "Juventus de Turin",
+      "anioFundacion" : "1897"
+    },
+    {
+      "nombre" : "Manchester United",
+      "anioFundacion" : "1878"
+    }
+  ]
+}
